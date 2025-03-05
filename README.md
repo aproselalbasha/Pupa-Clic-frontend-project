@@ -1,4 +1,4 @@
-Video Streaming Platform Landing Page
+Video Streaming Platform Landing Page   https://videostreaminglandingpage.netlify.app/
 
 This project is a landing page for a modern video streaming platform. It is built using cutting-edge front-end technologies, including React, Redux Toolkit, TailwindCSS, and other libraries.
 
